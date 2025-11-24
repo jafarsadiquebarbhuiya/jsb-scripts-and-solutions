@@ -4,7 +4,7 @@
 # ==============================
 # Config
 # ==============================
-$SubscriptionId = "9dc0b1a6-8062-4d72-b39d-7d45d1b38ab6"
+$SubscriptionId = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 $ResourceGroups = @("demo-rg")   # Add more RGs if needed
 $WhatIf = $false         # true = dry run, no changes
 $VerboseLogging = $true

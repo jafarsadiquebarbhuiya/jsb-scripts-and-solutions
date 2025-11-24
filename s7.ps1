@@ -1,5 +1,5 @@
 param(
-    [string]$SubscriptionId = "9dc0b1a6-8062-4d72-b39d-7d45d1b38ab6",
+    [string]$SubscriptionId = "xxxxxxxxxxxxxxxxxxxxxxxxxx",
     [int]$DeploymentThreshold = 1,
     [int]$DeleteCount = 1
 )

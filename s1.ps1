@@ -1,5 +1,5 @@
 # Set your specific subscription context
-$subscriptionId = "9dc0b1a6-8062-4d72-b39d-7d45d1b38ab6"
+$subscriptionId = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 az account set --subscription $subscriptionId
 Write-Host "Successfully set subscription context" -ForegroundColor Green
 

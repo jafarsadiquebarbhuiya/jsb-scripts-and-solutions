@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 # --- Variables ---
-$subscriptionId = "9dc0b1a6-8062-4d72-b39d-7d45d1b38ab6"
+$subscriptionId = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 $numberOfDeploymentsToKeep = 0  # Number of recent deployments to keep per Resource Group
 
 # -----------------------------------------------------------------------------

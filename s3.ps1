@@ -1,5 +1,5 @@
 # Variables Configuration
-$subscriptionId = "9dc0b1a6-8062-4d72-b39d-7d45d1b38ab6"
+$subscriptionId = "xxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 # Set the subscription context
 Write-Host "Setting subscription context to: $subscriptionId" -ForegroundColor Yellow
